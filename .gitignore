@@ -1,0 +1,10 @@
+# Build and Release Folders
+# bin/
+bin-debug/
+bin-release/
+
+# Other files and folders
+.settings/
+node_modules/*
+server/config/const.1.js
+package-lock.json
